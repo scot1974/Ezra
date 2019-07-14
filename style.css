@@ -1,0 +1,39 @@
+#ab1{
+	border-radius:0;background:url("images/traffic1.jpg");
+	background-size:cover;height:400px;
+}
+/*CSS file*/
+
+.reg
+{
+            width: 50%;
+            padding: 15px;
+            margin: 0 auto;
+            color: #1a1a1a;
+            margin-top: 40px;
+    
+}
+
+.login
+{
+            width: 40%;
+            padding: 15px;
+            margin: 0 auto;
+            color: #1a1a1a;
+            margin-top: 40px;
+}
+
+
+h2
+{
+    text-align: center;
+}
+
+
+#new_user
+{
+    margin-top: 10px;
+    text-align: center;
+}
+
+
